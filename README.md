@@ -12,7 +12,7 @@ Users should be able to:
 
 ### Screenshot of my solution
 
-![](./Screenshot_2021-12-30_Frontend_Mentor_Clipboard_landing_page.png)
+![](./clipboard_landing_page-screenshot.png)
 
 
 <!-- ### Links
