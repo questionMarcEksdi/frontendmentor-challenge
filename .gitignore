@@ -15,5 +15,5 @@
 .DS_Store
 
 /style-guide.md
-./design/
-./vscode
+design
+.vscode
